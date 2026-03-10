@@ -13,6 +13,10 @@ CpSkills.lua
 Achievements.lua
 Items.lua
 Styles.lua
+
+potionData\PotionEffectData.lua
+potionData\ReagentData.lua
+potionData\SolventData.lua
 Potions.lua
 Raids.lua
 
