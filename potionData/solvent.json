@@ -1,0 +1,182 @@
+[
+    {
+        "name": "天然水",
+        "level": 3,
+        "itemId": 883,
+        "internalLevel": 3,
+        "internalType": 30,
+        "isPoison": false,
+        "prefix": "一小口",
+        "icon": "/resources/crafting_forester_potion_vendor_001.png"
+    },
+    {
+        "name": "清水",
+        "level": 10,
+        "itemId": 1187,
+        "internalLevel": 10,
+        "internalType": 30,
+        "isPoison": false,
+        "prefix": "酊剂",
+        "icon": "/resources/crafting_potion_base_water_2_r2.png"
+    },
+    {
+        "name": "纯净水",
+        "level": 20,
+        "itemId": 4570,
+        "internalLevel": 20,
+        "internalType": 30,
+        "isPoison": false,
+        "prefix": "微量",
+        "icon": "/resources/crafting_potion_base_water_2_r3.png"
+    },
+    {
+        "name": "净化水",
+        "level": 30,
+        "itemId": 23265,
+        "internalLevel": 30,
+        "internalType": 30,
+        "isPoison": false,
+        "prefix": "药水",
+        "icon": "/resources/crafting_potion_base_water_3_r1.png"
+    },
+    {
+        "name": "过滤水",
+        "level": 40,
+        "itemId": 23266,
+        "internalLevel": 40,
+        "internalType": 30,
+        "isPoison": false,
+        "prefix": "溶液",
+        "icon": "/resources/crafting_potion_base_water_3_r2.png"
+    },
+    {
+        "name": "纯化水",
+        "level": 51,
+        "itemId": 23267,
+        "internalLevel": 50,
+        "internalType": 125,
+        "isPoison": false,
+        "prefix": "灵药",
+        "icon": "/resources/crafting_potion_base_water_3_r3.png"
+    },
+    {
+        "name": "云雾溶剂",
+        "level": 55,
+        "itemId": 23268,
+        "internalLevel": 50,
+        "internalType": 129,
+        "isPoison": false,
+        "prefix": "万能药水",
+        "icon": "/resources/crafting_potion_base_water_4_r1.png"
+    },
+    {
+        "name": "星露",
+        "level": 60,
+        "itemId": 64500,
+        "internalLevel": 50,
+        "internalType": 134,
+        "isPoison": false,
+        "prefix": "蒸馏物",
+        "icon": "/resources/crafting_stardew.png"
+    },
+    {
+        "name": "洛克汗之泪",
+        "level": 65,
+        "itemId": 64501,
+        "internalLevel": 50,
+        "internalType": 308,
+        "isPoison": false,
+        "prefix": "精华",
+        "icon": "/resources/crafting_lorkhanstears.png"
+    },
+    {
+        "name": "油脂",
+        "level": 3,
+        "itemId": 75357,
+        "internalLevel": 3,
+        "internalType": 30,
+        "isPoison": true,
+        "prefix": " I",
+        "icon": "/resources/crafting_potion_base_water_1_r1.png"
+    },
+    {
+        "name": "脓血",
+        "level": 10,
+        "itemId": 75358,
+        "internalLevel": 10,
+        "internalType": 30,
+        "isPoison": true,
+        "prefix": " II",
+        "icon": "/resources/crafting_potion_base_oil_2_r2.png"
+    },
+    {
+        "name": "黏液",
+        "level": 20,
+        "itemId": 75359,
+        "internalLevel": 20,
+        "internalType": 30,
+        "isPoison": true,
+        "prefix": " III",
+        "icon": "/resources/crafting_potion_base_oil_2_r3.png"
+    },
+    {
+        "name": "胆汁",
+        "level": 30,
+        "itemId": 75360,
+        "internalLevel": 30,
+        "internalType": 30,
+        "isPoison": true,
+        "prefix": " IV",
+        "icon": "/resources/crafting_potion_base_oil_3_r1.png"
+    },
+    {
+        "name": "松节油",
+        "level": 40,
+        "itemId": 75361,
+        "internalLevel": 40,
+        "internalType": 30,
+        "isPoison": true,
+        "prefix": " V",
+        "icon": "/resources/crafting_potion_base_oil_3_r2.png"
+    },
+    {
+        "name": "漆黑胆汁",
+        "level": 51,
+        "itemId": 75362,
+        "internalLevel": 50,
+        "internalType": 125,
+        "isPoison": true,
+        "prefix": " VI",
+        "icon": "/resources/crafting_potion_base_oil_3_r3.png"
+    },
+    {
+        "name": "焦油",
+        "level": 55,
+        "itemId": 75363,
+        "internalLevel": 50,
+        "internalType": 129,
+        "isPoison": true,
+        "prefix": " VII",
+        "icon": "/resources/crafting_potion_base_oil_4_r1.png"
+    },
+    {
+        "name": "夜油",
+        "level": 60,
+        "itemId": 75364,
+        "internalLevel": 50,
+        "internalType": 134,
+        "isPoison": true,
+        "prefix": " VIII",
+        "icon": "/resources/crafting_potion_base_oil_4_r2.png"
+    },
+    {
+        "name": "万能溶剂",
+        "level": 65,
+        "itemId": 75365,
+        "internalLevel": 50,
+        "internalType": 308,
+        "isPoison": true,
+        "prefix": " IX",
+        "icon": "/resources/crafting_potion_base_oil_4_r3.png"
+    }
+]
